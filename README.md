@@ -1,2 +1,1 @@
-# Do_Eye_See
-COGS 189 Final Project
+# COGS 189 Final Project
